@@ -25,9 +25,7 @@ F#5: xx467x
 
 ### Verse
 
-**Chords** F#m C5 **Chords**
-
-Smooth skin prepare a pillow to
+::F#m:: Smooth skin prepare a pillow ::C5:: to
 
 **Chords** F#m C5 **Chords**
 

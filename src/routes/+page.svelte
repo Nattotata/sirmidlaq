@@ -2,6 +2,7 @@
 	import { formatDate } from '$lib/utils';
 	import * as config from '$lib/config';
 
+	import { flip } from 'svelte/animate';
 	export let data;
 </script>
 
@@ -10,9 +11,9 @@
 </svelte:head>
 
 <section>
-	<ul class="posts">
+	<ul class="songs">
 		{#each data.songs as song}
-			<li class="post">
+			<li class="song">
 				<a href={`songs/${song.slug}`} class="title">{song.title}</a>
 			</li>
 		{/each}
@@ -20,30 +21,32 @@
 </section>
 
 <style>
-    .posts {
-        display: grid;
-        gap: 2rem;
+	.songs {
+		display: grid;
+		gap: 2rem;
+	}
+
+	.song {
+		max-inline-size: var(--size-content-3);
+    }
+    .song:hover{
+		animation:  var(--animation-fade-out-bloom);
+        animation-duration: 50s;
+
     }
 
-    .post {
-        max-inline-size: var(--size-content-3);
-    }
+	.song:not(:last-child) {
+		border-bottom: 1px solid var(--border);
+		padding-bottom: var(--size-7);
+	}
 
-    .post:not(:last-child) {
-        border-bottom: 1px solid var(--border);
-        padding-bottom: var(--size-7)
-    }
-
-    .title {
-        font-size: var(--font--size-fluid-3);
-        text-transform: capitalize;
-    }
-
-    .date {
-        color: var(--text-2);
-    }
-
-    .description {
-        margin-top: var(--size-3)
-    }
+	.title {
+		font-size: var(--font--size-fluid-3);
+		text-transform: capitalize;
+		color: var(--text-1);
+	}
+	.title:hover {
+		color: var(--text-2);
+		text-decoration: none;
+	}
 </style>
