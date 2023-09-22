@@ -2,11 +2,13 @@ import adapter from '@sveltejs/adapter-auto';
 import { vitePreprocess } from '@sveltejs/kit/vite';
 
 import { mdsvex } from 'mdsvex';
+import chordPlugin from './src/plugins/chord-plugin.js'
 
 /** @type {import('mdsvex').MdsvexOptions} */
 
 const MdsvexOptions = {
-	extensions: ['.md', '.mdx']
+	extensions: ['.md', '.mdx'],
+    remarkPlugins: [chordPlugin]
 };
 
 /** @type {import('@sveltejs/kit').Config} */
