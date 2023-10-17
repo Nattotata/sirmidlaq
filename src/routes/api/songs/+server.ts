@@ -9,7 +9,6 @@ const getSongs = async () => {
         { eager: true})
 
     for (const path in paths){
-        console.info(path)
         const file: any = paths[path]
         const slug = slugify(path)
 
@@ -25,7 +24,6 @@ const getSongs = async () => {
         const song = { ...metadata, slug } satisfies Song
         song.published && songs.add(song)
     }
-    console.info(songs)
     return songs
 } 
 
