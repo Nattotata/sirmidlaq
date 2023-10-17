@@ -52,4 +52,9 @@
 			margin-block: 0;
 		}
 	}
+    @media print{
+        * {
+            display: none;
+        }
+    }
 </style>
