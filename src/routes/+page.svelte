@@ -1,9 +1,22 @@
 <script lang="ts">
-	import { formatDate } from '$lib/utils';
 	import * as config from '$lib/config';
-
-	import { flip } from 'svelte/animate';
-	export let data;
+	import { onMount } from 'svelte';
+	import { writable } from 'svelte/store';
+	import Goofy from '$lib/assets/sir midlaq_2.jpg?w=1200&format=webp';
+	import Sleep from '$lib/assets/sir_midlaq_ilustrace/sleep.jpg?format=webp';
+	import Faces from '$lib/assets/sir_midlaq_ilustrace/faces.jpg?format=webp';
+	import TheOnlyWay from '$lib/assets/sir_midlaq_ilustrace/the_only_way.jpg?format=webp';
+	import StuckInAnOasis from '$lib/assets/sir_midlaq_ilustrace/stuck_in_an_oasis.jpg?format=webp';
+	const imageArray = [Sleep, Faces, TheOnlyWay, StuckInAnOasis, Goofy];
+	const getRandomImage = () => {
+		const randomIndex = Math.floor(Math.random() * imageArray.length);
+		return imageArray[randomIndex];
+	};
+	const currentImage = writable(getRandomImage());
+	onMount(() => {
+		currentImage.set(getRandomImage());
+	});
+	$currentImage = currentImage;
 </script>
 
 <svelte:head>
@@ -11,42 +24,24 @@
 </svelte:head>
 
 <section>
-	<ul class="songs">
-		{#each data.songs as song}
-			<li class="song">
-				<a href={`songs/${song.slug}`} class="title">{song.title}</a>
-			</li>
-		{/each}
-	</ul>
+	<div class="image-container">
+		<!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
+		<img
+			on:click={() => currentImage.set(getRandomImage())}
+			on:keypress={() => currentImage.set(getRandomImage())}
+			src={$currentImage}
+			alt="song illustration"
+		/>
+	</div>
 </section>
 
 <style>
-	.songs {
-		display: grid;
-		gap: 2rem;
+	.image-container {
+		display: flex;
+		justify-content: center;
+		max-height: 80vh;
 	}
-
-	.song {
-		max-inline-size: var(--size-content-3);
-    }
-    .song:hover{
-		animation:  var(--animation-fade-out-bloom);
-        animation-duration: 50s;
-
-    }
-
-	.song:not(:last-child) {
-		border-bottom: 1px solid var(--border);
-		padding-bottom: var(--size-7);
-	}
-
-	.title {
-		font-size: var(--font--size-fluid-3);
-		text-transform: capitalize;
-		color: var(--text-1);
-	}
-	.title:hover {
-		color: var(--text-2);
-		text-decoration: none;
+	img {
+		cursor: grab;
 	}
 </style>

@@ -13,6 +13,7 @@
 	<ul class="links">
 		<li>
 			<a href="/songs">Songs</a>
+			<a href="/about">About</a>
 		</li>
 	</ul>
 
