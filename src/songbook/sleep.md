@@ -43,8 +43,6 @@ C: 8 10 10 9 8 8
 A#: 6 8 8 7 6 6
 ```
 
-<div style="break-after: always"></div>
-
 ### Verse
 
 ::G::Beneath the ::Am::unknown holy con::C::struction

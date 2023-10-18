@@ -54,7 +54,6 @@
 			position: absolute;
 			top: -1em;
 			font-size: var(--font-size-1);
-			page-break-inside: avoid;
 		}
 	</style>
 {/if}
