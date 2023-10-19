@@ -1,6 +1,9 @@
 ---
 title: Sleep
 published: true
+links:
+  spotify: https://open.spotify.com/track/0JJBNP0iWrdvR6MtgWg9XN?si=1e26c6fe9ffd4b8f
+  youtube: https://www.youtube.com/watch?v=58O7P1dvzu8
 ---
 
 Time:  
