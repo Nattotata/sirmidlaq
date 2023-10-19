@@ -16,4 +16,9 @@
 	p {
 		color: var(--text-2);
 	}
+    @media print{
+        * {
+            display: none;
+        }
+    }
 </style>

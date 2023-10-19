@@ -33,4 +33,9 @@
 		display: flex;
 		gap: var(--size-2);
 	}
+    @media print{
+        * {
+            display: none;
+        }
+    }
 </style>

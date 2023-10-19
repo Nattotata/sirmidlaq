@@ -1,6 +1,5 @@
-import adapter from '@sveltejs/adapter-auto';
+import adapter from '@sveltejs/adapter-vercel';
 import { vitePreprocess } from '@sveltejs/kit/vite';
-
 import { mdsvex } from 'mdsvex';
 import chordPlugin from './src/plugins/chord-plugin.js'
 

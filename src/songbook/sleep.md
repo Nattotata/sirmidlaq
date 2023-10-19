@@ -1,91 +1,139 @@
 ---
 title: Sleep
 published: true
+links:
+  spotify: https://open.spotify.com/track/0JJBNP0iWrdvR6MtgWg9XN?si=1e26c6fe9ffd4b8f
+  youtube: https://www.youtube.com/watch?v=58O7P1dvzu8
 ---
 
+Time:  
+7/4 (Verse)  
+4/4 (Chorus)  
 
-
-Time: 7/4 (Verse) 4/4 (Chorus)
 Key: G
 
-### Chords
+## Chords
 
-```
+```chords
 Verse:
 
 G: 3xxx30
 Am: 5xxx53
 C: 8xxx87
 
-Prechorus:
+Prechorus (first guitar)
 
 Em: 12 x x x 12 10
 A: x 12 x x 12 10
 G: x 10 x x 12 10
-F#: x 9 x x 10 7
+Bm: x 9 x x 10 7
+
+Prechorus (second guitar)
+
+(pluck from highest string to lowest)
+Em: x 2 2 0 x x
+C# dim: x 4 2 0 x x
+Dmaj(add4): x 5 4 0 x x
+Dsus4: x 5 7 0 x x
 
 Chorus:
 
-G: 355433
-Em: x79787
-B: 799877
-D: x35553
+G: 3 5 5 4 3 3
+Em: x 7 9 7 8 7
+B: 7 9 9 8 7 7
+D: x 3 5 5 5 3
 C: 8 10 10 9 8 8
-A#: 688766
+A#: 6 8 8 7 6 6
 ```
 
 ### Verse
 
-Beneath the unknown holy construction  
-Where lays my last little bit of action  
-Meet the couple of raw mountains  
-As the thing to catch me off guard  
+::G::Beneath the ::Am::unknown holy con::C::struction
+
+::G::Where lays my ::Am::last little bit of ::C::action
+
+::G::Meet the ::Am::couple of raw ::C::mountains
+
+::G::As the thing ::Am::to catch me ::C::off guard
 
 ### Prechorus
 
-Easy to believe  
-That there is nothing to see  
-In the blizzard  
-That's keeping you from tip of the cliff  
-  
-It's just so much better than loosing your consciousness  
+::Em::Easy to believe
+
+That there is ::A::nothing to see
+
+::G::In the blizzard
+
+That's keeping you from ::Bm::tip of the cliff
+
+::Em::Easy to believe
+
+That there is ::A::nothing to see
+
+::G::In the blizzard
+
+That's keeping you from ::Bm::tip of the cliff
 
 ### Chorus
 
-All you want is sleep  
-Holding someone to breath  
-Up close in a hair  
-You want so painfully freeze  
-  
-All you want is breath  
-Holding someone to sleep  
-Up close in the lair  
-Of maggots waiting to eat  
+::G::All you want is ::Em::sleep
+
+::B::Holding someone to ::D::breath
+
+::G::Up close in a ::Em::hair
+
+You want ::B::so ::C::pain::A#::fully ::G::freeze
+
+::G::All you want is ::Em::breath
+
+::B::Holding someone to ::D::sleep
+
+::G::Up close in the ::Em::lair
+
+Of mag::B::gots ::C::wai::A#::ting to ::G::eat
 
 ### Verse
 
-Lean on the pressure of the pleasant numbness  
-Sweet side is picking up droping boneless  
-Meet the couple of raw mountains  
-As the thing to catch me off guard  
+::G::Lean on the ::Am::pressure of the pleasant ::C::numbness
+
+::G::Sweet side is ::Am::picking up droping ::C::boneless
+
+::G::Meet the ::Am::couple of raw ::C::mountains
+
+::G::As the thing ::Am::to catch me ::C::off guard
 
 ### Prechorus
 
-Easy to believe  
-That there is nothing to see  
-In the blizzard  
-That's keeping you from tip of the cliff  
-  
-It's just so much better than loosing your consciousness  
+::Em::Easy to believe
+
+That there is ::A::nothing to see
+
+::G::In the blizzard
+
+That's keeping you from ::Bm::tip of the cliff
+
+::Em::Easy to believe
+
+That there is ::A::nothing to see
+
+::G::In the blizzard
+
+That's keeping you from ::Bm::tip of the cliff
 
 ### Chorus
 
-All you want is sleep  
-Holding someone to breath  
-Up close in a hair  
-You want so painfully freeze  
-  
-All you want is breath  
-Holding someone to sleep  
-Up close in the lair  
-Of maggots waiting to eat  
+::G::All you want is ::Em::sleep
+
+::B::Holding someone to ::D::breath
+
+::G::Up close in a ::Em::hair
+
+You want ::B::so ::C::pain::A#::fully ::G::freeze
+
+::G::All you want is ::Em::breath
+
+::B::Holding someone to ::D::sleep
+
+::G::Up close in the ::Em::lair
+
+Of mag::B::gots ::C::wai::A#::ting to ::G::eat
