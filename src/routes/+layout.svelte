@@ -2,7 +2,7 @@
 	import Footer from './footer.svelte';
 	import Header from './header.svelte';
 	import PageTransition from './transition.svelte';
-    export let data
+	export let data;
 
 	import 'open-props/style';
 	import 'open-props/normalize';
