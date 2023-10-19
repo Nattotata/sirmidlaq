@@ -40,6 +40,7 @@
   "dependencies": {
     "@fontsource/jetbrains-mono": "^5.0.12",
     "@fontsource/manrope": "^5.0.12",
+    "@vercel/analytics": "^1.1.1",
     "lucide-svelte": "^0.279.0",
     "open-props": "^1.5.16"
   }
