@@ -2,11 +2,11 @@
 	import * as config from '$lib/config';
 	import { onMount } from 'svelte';
 	import { writable } from 'svelte/store';
-	import Goofy from '$lib/assets/sir midlaq_2.jpg?w=1200&format=webp';
-	import Sleep from '$lib/assets/sir_midlaq_ilustrace/sleep.jpg?format=webp';
-	import Faces from '$lib/assets/sir_midlaq_ilustrace/faces.jpg?format=webp';
-	import TheOnlyWay from '$lib/assets/sir_midlaq_ilustrace/the_only_way.jpg?format=webp';
-	import StuckInAnOasis from '$lib/assets/sir_midlaq_ilustrace/stuck_in_an_oasis.jpg?format=webp';
+	import Goofy from '$lib/assets/sir_midlaq_ilustrace/goofy.jpg?format=webp&imagetools';
+	import Sleep from '$lib/assets/sir_midlaq_ilustrace/sleep.jpg?format=webp&imagetools';
+	import Faces from '$lib/assets/sir_midlaq_ilustrace/faces.jpg?format=webp&imagetools';
+	import TheOnlyWay from '$lib/assets/sir_midlaq_ilustrace/the_only_way.jpg?format=webp&imagetools';
+	import StuckInAnOasis from '$lib/assets/sir_midlaq_ilustrace/stuck_in_an_oasis.jpg?format=webp&imagetools';
 	const imageArray = [Sleep, Faces, TheOnlyWay, StuckInAnOasis, Goofy];
 	const getRandomImage = () => {
 		const randomIndex = Math.floor(Math.random() * imageArray.length);
@@ -16,7 +16,6 @@
 	onMount(() => {
 		currentImage.set(getRandomImage());
 	});
-	$currentImage = currentImage;
 </script>
 
 <svelte:head>
