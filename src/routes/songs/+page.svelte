@@ -26,12 +26,6 @@
 	.song {
 		max-inline-size: var(--size-content-3);
     }
-    .song:hover{
-		animation:  var(--animation-fade-out-bloom);
-        animation-duration: 50s;
-
-    }
-
 	.song:not(:last-child) {
 		border-bottom: 1px solid var(--border);
 		padding-bottom: var(--size-7);
