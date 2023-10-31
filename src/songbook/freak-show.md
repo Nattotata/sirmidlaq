@@ -1,13 +1,10 @@
 ---
-title: "Freak show"
-type: "song"
+title: 'Freak show'
+type: 'song'
+published: true
 ---
 
-
-
-### Chord diagrams
-
-```
+```chords
 Verse
 Am: x x 7 5 5 5
 Em: x 7 5 7 0 x
@@ -22,107 +19,70 @@ C: x 3 5 5 5 x
 E: x 7 9 9 9 x
 
 Bridge
-x 7 7 6 0 0
-x 10 10 9 0 0
-x 8 10 9 10 x
-x 11 13 12 13 x
-x x 8 10 9 10
-x x x 7 7 7
+A:      x 7 7 6 0 0
+C:      x 10 10 9 0 0
+Fmaj7:  x 8 10 9 10 x
+G#maj7: x 11 13 12 13 x nebo x x x 8 8 8
+Gmaj7:  x x x 7 7 7
+F#maj7: x x x 6 6 6
 ```
 
-### Verse
+## Verse
 
-**Chords** Am Em **Chords**
+::Am::Toss your hat in::Em::to the air
 
-Toss your hat into the air
+::C::Audience is ::D::already waiting
 
-**Chords** C D **Chords**
+::Am::Act as if ::Em::nothing happened
 
-Audience is already waiting
+::C::Hide the wounds and ::D::smile like in fairy tale
 
-**Chords** Am Em **Chords**
+## Chorus
 
-Act as if nothing happened
+::A::Can you see the beauty of having a ::F::fun park
 
-**Chords** C D **Chords**
+Is ::C::inconspicuous way to raise a ::E::white shark
 
-Hide the wounds and smile like in fairy tale
+::A::Can you see the beauty of having a ::F::fun park
 
-### Chorus
+Can you ::C::be the animal I can't stay a::E::round?
 
-**Chords** A F **Chords**
+## Verse
 
-Can you see the beauty of having a fun park
+::Am::Lights took the ::Em::shortcut to shadow
 
-**Chords** C E **Chords**
+::C::Coal tastes better than ::D::crunchy make-up
 
-Is inconspicuous way to raise a white shark
+::Am::Running all over you ::Em::after the freak show
 
-**Chords** A F **Chords**
+::C::Waiter is ready to ::D::serve you my soul
 
-Can you see the beauty of having a fun park
+## Chorus
 
-**Chords** C E **Chords**
+::A::Can you see the beauty of having a ::F::fun park
 
-Can you be the animal I can't stay around?
+Is ::C::inconspicuous way to raise a ::E::white shark
 
-### Verse
+::A::Can you see the beauty of having a ::F::fun park
 
-**Chords** Am Em **Chords**
+Can you ::C::be the animal I can't stay ::E::around?
 
-Lights took the shortcut to shadow
+## Interlude
 
-**Chords** C D **Chords**
+::A::Persuade the jury inside
 
-Coal tastes better than crunchy make-up
+To ::C::take the case lightly
 
-**Chords** Am Em **Chords**
+::Fmaj7::While our tongue is falling apart
 
-Running all over you after the freak show
+::G#maj7::I'm gonna have some ::Gmaj7::white ::F#maj7::tea
 
-**Chords** C D **Chords**
+## Chorus
 
-Waiter is ready to serve you my soul
+::A::Can you see the beauty of having a ::F::fun park
 
-### Chorus
+Is ::C::inconspicuous way to raise a ::E::white shark
 
-**Chords** A F **Chords**
+::A::Can you see the beauty of ::F::having a fun park
 
-Can you see the beauty of having a fun park
-
-**Chords** C E **Chords**
-
-Is inconspicuous way to raise a white shark
-
-**Chords** A F **Chords**
-
-Can you see the beauty of having a fun park
-
-**Chords** C E **Chords**
-
-Can you be the animal I can't stay around?
-
-### Interlude
-
-Persuade the jury inside  
-To take the case lightly  
-While our tongue is falling apart  
-I'm gonna have some white tea
-
-### Chorus
-
-**Chords** A F **Chords**
-
-Can you see the beauty of having a fun park
-
-**Chords** C E **Chords**
-
-Is inconspicuous way to raise a white shark
-
-**Chords** A F **Chords**
-
-Can you see the beauty of having a fun park
-
-**Chords** C E **Chords**
-
-Can you be the animal I can't stay around?
+Can you ::C::be the animal I can't stay ::E::around?

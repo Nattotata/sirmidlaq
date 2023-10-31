@@ -1,6 +1,7 @@
 ---
 title: Stuck in an oasis
 type: song
+published: true
 ---
 
 ## Chords
@@ -32,64 +33,64 @@ D: x 5 7 7 0 x
 
 ## Verse
 
-**Em**Mouse running through desert
+::Em::Mouse running through desert
 
-Following the **C5**tail **B5**of a **A5**scor**G**pio**Em**n
+Following the ::C5::tail ::B5::of a ::A5::scor::G::pio::Em::n
 
-**Em**Blend with every number
+::Em::Blend with every number
 
-That is **C5**hitt**B5**ing the**A5** leg**G**ion**C5** ---**B5 A5**
+That is ::C5::hitt::B5::ing the::A5:: leg::G::ion::C5:: ---::B5 A5::
 
-**Em**House standing in reverse
+::Em::House standing in reverse
 
-Hollow in the **C5**swim**B5**suit of **A5**hor**G**ny **Em**doll
+Hollow in the ::C5::swim::B5::suit of ::A5::hor::G::ny ::Em::doll
 
-**Em**Land with puddle in bundle
+::Em::Land with puddle in bundle
 
-Stay in the **C5**flames **B5**of the**A5** a--**G**lie**C**ns**B5 A5**
+Stay in the ::C5::flames ::B5::of the::A5:: a--::G::lie::C::ns::B5 A5::
 
 ## Chorus
 
-I am **E5**stuck in an oa**Esus2**sis
+I am ::E5::stuck in an oa::Esus2::sis
 
-**E5**Stuck in an oa**Gsus2**sis
+::E5::Stuck in an oa::Gsus2::sis
 
-Roll me **C**over the **D**sand and **E high**time
+Roll me ::C::over the ::D::sand and ::E high::time
 
-Holy **C**water is **D**there to **E low**die
+Holy ::C::water is ::D::there to ::E low::die
 
-I am **E5**stuck in an oa**Esus2**sis
+I am ::E5::stuck in an oa::Esus2::sis
 
-**E5**Stuck in an oa**Gsus2**sis
+::E5::Stuck in an oa::Gsus2::sis
 
-Roll me **C**over the **D**sand and **E high**time
+Roll me ::C::over the ::D::sand and ::E high::time
 
-It's only **C**up to the **D**rudiment to **E low**try
+It's only ::C::up to the ::D::rudiment to ::E low::try
 
 ## Verse
 
-**Em**Aroused by the hell of a lizard
+::Em::Aroused by the hell of a lizard
 
-Heat up the **C5**lea**B5**ther you **A5**roll **G**me **Em**on
+Heat up the ::C5::lea::B5::ther you ::A5::roll ::G::me ::Em::on
 
-**Em**Try to act humble
+::Em::Try to act humble
 
-Play by the **C5**rules**B5** of the**A5** a--**G**lie**C**ns**B5 A5**
+Play by the ::C5::rules::B5:: of the::A5:: a--::G::lie::C::ns::B5 A5::
 
 ## Chorus
 
-I am **E5**stuck in an oa**Esus2**sis
+I am ::E5::stuck in an oa::Esus2::sis
 
-**E5**Stuck in an oa**Gsus2**sis
+::E5::Stuck in an oa::Gsus2::sis
 
-Roll me **C**over the **D**sand and **E high**time
+Roll me ::C::over the ::D::sand and ::E high::time
 
-Holy **C**water is **D**there to **E low**die
+Holy ::C::water is ::D::there to ::E low::die
 
-I am **E5**stuck in an oa**Esus2**sis
+I am ::E5::stuck in an oa::Esus2::sis
 
-**E5**Stuck in an oa**Gsus2**sis
+::E5::Stuck in an oa::Gsus2::sis
 
-Roll me **C**over the **D**sand and **E high**time
+Roll me ::C::over the ::D::sand and ::E high::time
 
-It's only **C**up to the **D**rudiment to **E low**try
+It's only ::C::up to the ::D::rudiment to ::E low::try
