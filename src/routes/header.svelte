@@ -1,6 +1,6 @@
 <script lang="ts">
 	import * as config from '$lib/config';
-    import Toggle from './toggle.svelte';
+	import Toggle from './toggle.svelte';
 </script>
 
 <nav>
@@ -13,6 +13,8 @@
 	<ul class="links">
 		<li>
 			<a href="/songs">Songs</a>
+		</li>
+		<li>
 			<a href="/about">About</a>
 		</li>
 	</ul>
@@ -47,9 +49,9 @@
 			margin-block: 0;
 		}
 	}
-    @media print{
-        * {
-            display: none;
-        }
-    }
+	@media print {
+		* {
+			display: none;
+		}
+	}
 </style>
