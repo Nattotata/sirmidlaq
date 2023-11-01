@@ -1,7 +1,6 @@
 ---
 title: "All the spare time"
 type: "song"
-published: true
 ---
 
 ```chords

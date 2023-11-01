@@ -1,5 +1,5 @@
 ---
-title: "Holy spirit"
+title: "Holy spirit (lyrics)"
 type: "song"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Zone
+title: Zone (lyrics)
 type: song
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sea for yourself"
+title: "Sea for yourself (lyrics)"
 type: song
 ---
 

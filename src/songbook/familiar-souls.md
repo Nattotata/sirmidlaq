@@ -1,5 +1,5 @@
 ---
-title: "Familiar souls"
+title: "Familiar souls (lyrics)"
 type: song
 ---
 

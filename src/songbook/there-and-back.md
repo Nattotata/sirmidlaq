@@ -1,5 +1,5 @@
 ---
-title: 'There and back'
+title: 'There and back (lyrics)'
 type: song
 ---
 

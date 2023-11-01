@@ -1,5 +1,5 @@
 ---
-title: "Everyday use"
+title: "Everyday use (lyrics)"
 type: song
 ---
 

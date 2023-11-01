@@ -1,5 +1,5 @@
 ---
-title: For a second time this week
+title: For a second time this week (lyrics)
 type: song
 ---
 

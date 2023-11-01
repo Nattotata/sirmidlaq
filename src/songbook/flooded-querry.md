@@ -1,170 +1,108 @@
 ---
-title: "Flooded querry"
-type: "song"
+title: 'Flooded querry'
+type: 'song'
 ---
 
+```chords
+Verse:
+Bm:     x 2 4 4 3 x
+A:      x 0 2 2 2 0
+F#5:    2 4 4 x x x
 
+Chorus:
+Em7:    x 7 9 9 8 x
+Bm7:    7 9 7 7 7 7
 
-### Verse
-
-**Chords** Bm **Chords**
-
-Hell and back, faith is the last thing keeping me safe
-
-**Chords** A Bm **Chords**
-
-Holding my thoughts inside
-
-**Chords** Bm **Chords**
-
-Imprisoned hounds, tearing apart
-
-**Chords** A **Chords**
-
-The shell that I bear along 'till the end of time
-
-### Prechorus
-
-**Chords** Bm **Chords**
-
-Hall is ready, to dance around
-
-**Chords** Bm F#5 **Chords**
-
-Choose your dress princess
-
-**Chords** G A **Chords**
-
-I'll be waiting nearby
-
-### Chorus
-
-**Chords** Em7 Bm7 **Chords**
-
-We shall rise to heaven
-
-**Chords** F#m **Chords**
-
-With the pillow we bought
-
-**Chords** G A **Chords**
-
-It's number seven
-
-**Chords** Em7 Bm7 **Chords**
-
-We shall rise to heaven
-
-**Chords** F#m **Chords**
-
-With the pillow we bought
-
-**Chords** G A **Chords**
-
-It's number seven
+Interlude:
+G:      3 5 5 4 x x
+```
 
 ### Verse
 
-**Chords** Bm **Chords**
+::Bm::Hell and back, faith is the last thing keeping me safe
 
-Death is upon us, with cold wet hands
+::A::Holding my thoughts ::Bm::inside
 
-**Chords** Bm **Chords**
+::Bm::Imprisoned hounds, tearing apart
 
-Dear god can we swap our pants
-
-**Chords** A Bm **Chords**
-
-Mine aren't as clean as yours
-
-**Chords** Bm **Chords**
-
-But it's the only thing that can redeem
-
-**Chords** Bm **Chords**
-
-Soul we both posses
+::A::The shell that I bear along 'till the end of time
 
 ### Prechorus
 
-**Chords** Bm **Chords**
+::Bm::Hall is ready, to dance around
 
-Hall is ready, to dance around
+::Bm::Choose your dress ::F#5::princess
 
-**Chords** Bm F#5 **Chords**
-
-Choose your dress princess
-
-**Chords** G A **Chords**
-
-I'll be waiting nearby
+::G::I'll be waiting ::A::nearby
 
 ### Chorus
 
-**Chords** Em7 Bm7 **Chords**
+::Em7::We shall rise ::Bm7::to heaven
 
-We shall rise to heaven
+::F#m::With the pillow we bought
 
-**Chords** F#m **Chords**
+It's ::G::number ::A::seven
 
-With the pillow we bought
+::Em7::We shall rise ::Bm7::to heaven
 
-**Chords** G A **Chords**
+::F#m::With the pillow we bought
 
-It's number seven
+It's ::G::number ::A::seven
 
-**Chords** Em7 Bm7 **Chords**
+### Verse
 
-We shall rise to heaven
+::Bm::Death is upon us, with cold wet hands
 
-**Chords** F#m **Chords**
+::Bm::Dear god can we swap our pants
 
-With the pillow we bought
+::A::Mine aren't as clean as ::Bm::yours
 
-**Chords** G A **Chords**
+::Bm::But it's the only thing that can redeem
 
-It's number seven
+::Bm::Soul we both posses
+
+### Prechorus
+
+::Bm::Hall is ready, to dance around
+
+::Bm::Choose your dress ::F#5princess
+
+::G::I'll be waiting ::A::nearby
+
+### Chorus
+
+::Em7::We shall rise ::Bm7::to heaven
+
+::F#m::With the pillow we bought
+
+It's ::G::number ::A::seven
+
+::Em7::We shall rise ::Bm7::to heaven
+
+::F#m::With the pillow we bought
+
+It's ::G::number ::A::seven
 
 ### Interlude
 
-**Chords** Bm G **Chords**
+::Bm::Anxiety is ::G::royalty
 
-Anxiety is royalty
+And ::Bm::you're my queen of ::G::bending fear
 
-**Chords** Bm G **Chords**
+::Bm::Insanity took ::G::over me
 
-And you're my queen of bending fear
-
-**Chords** Bm G **Chords**
-
-Insanity took over me
-
-**Chords** Bm F#m **Chords**
-
-Rising guilt has liquid color theme
+::Bm::Rising guilt has liquid color ::F#m::theme
 
 ### Chorus
 
-**Chords** Em7 Bm7 **Chords**
+::Em7::We shall rise ::Bm7::to heaven
 
-We shall rise to heaven
+::F#m::With the pillow we bought
 
-**Chords** F#m **Chords**
+It's ::G::number ::A::seven
 
-With the pillow we bought
+::Em7::We shall rise ::Bm7::to heaven
 
-**Chords** G A **Chords**
+::F#m::With the pillow we bought
 
-It's number seven
-
-**Chords** Em7 Bm7 **Chords**
-
-We shall rise to heaven
-
-**Chords** F#m **Chords**
-
-With the pillow we bought
-
-**Chords** G A **Chords**
-
-It's number seven
+It's ::G::number ::A::seven
