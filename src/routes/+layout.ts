@@ -13,4 +13,3 @@ export const load = async ({ url }: { url: UrlProps }) => {
 		url: url.pathname
 	};
 };
-export const prerender = true;

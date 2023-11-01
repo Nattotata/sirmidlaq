@@ -3,9 +3,9 @@ import { error } from '@sveltejs/kit';
 export async function load({ params }) {
 	try {
 		const song = await import(`../../../songbook/${params.slug}.md`);
-		if (song.metadata.published !== true) {
-			throw new Error('unpublished');
-		}
+//		if (song.metadata.published !== true) {
+//			throw new Error('unpublished');
+//		}
 		return {
 			content: song.default,
 			meta: song.metadata
