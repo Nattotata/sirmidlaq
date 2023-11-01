@@ -1,6 +1,13 @@
 <script lang="ts">
 	import * as config from '$lib/config';
 	export let data;
+	import { page } from '$app/stores';
+	const allSongs = $page.url.searchParams.get('allSongs') !== null 
+
+	const filterSongs = (songs: any, allSongs: boolean) => {
+		return allSongs ? songs : songs.filter((song: any) => song.published);
+	};
+	const songs = filterSongs(data.songs, Boolean(allSongs));
 </script>
 
 <svelte:head>
@@ -9,7 +16,7 @@
 
 <section>
 	<ul class="songs">
-		{#each data.songs as song}
+		{#each songs as song}
 			<li class="song">
 				<a href={`songs/${song.slug}`} class="title">{song.title}</a>
 			</li>
@@ -25,7 +32,7 @@
 
 	.song {
 		max-inline-size: var(--size-content-3);
-    }
+	}
 	.song:not(:last-child) {
 		border-bottom: 1px solid var(--border);
 		padding-bottom: var(--size-7);
