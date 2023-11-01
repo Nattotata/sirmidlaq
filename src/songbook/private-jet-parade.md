@@ -1,5 +1,5 @@
 ---
-title: "Private Jet Parade"
+title: "Private Jet Parade (lyrics)"
 type: song
 ---
 

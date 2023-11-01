@@ -1,5 +1,5 @@
 ---
-title: "How do you do"
+title: "How do you do (lyrics)"
 type: song
 ---
 

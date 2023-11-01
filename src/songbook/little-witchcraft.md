@@ -1,5 +1,5 @@
 ---
-title: Little witchcraft
+title: Little witchcraft (lyrics)
 type: song
 ---
 

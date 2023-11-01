@@ -1,5 +1,5 @@
 ---
-title: "Fading memory"
+title: "Fading memory (lyrics)"
 type: "song"
 ---
 

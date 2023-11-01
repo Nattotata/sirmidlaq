@@ -1,5 +1,5 @@
 ---
-title: 'Snowflake leaf in Texas'
+title: 'Snowflake leaf in Texas (lyrics)'
 type: song
 ---
 

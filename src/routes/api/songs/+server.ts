@@ -17,7 +17,6 @@ const getSongs = async () => {
 
 		const metadata = file.metadata as Omit<Song, 'slug'>;
 		const song = { ...metadata, slug } satisfies Song;
-		// song.published && songs.add(song);
 		songs.add(song);
 	}
 	return songs;

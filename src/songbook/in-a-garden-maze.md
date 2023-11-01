@@ -1,5 +1,5 @@
 ---
-title: "In a Garden Maze"
+title: "In a Garden Maze (lyrics)"
 type: song
 ---
 

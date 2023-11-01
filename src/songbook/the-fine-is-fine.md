@@ -1,5 +1,5 @@
 ---
-title: The fine is fine
+title: The fine is fine (lyrics)
 type: song
 ---
 

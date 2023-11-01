@@ -1,6 +1,6 @@
 ---
 type: "song"
-title: "Yellow piggies"
+title: "Yellow piggies (lyrics)"
 ---
 
 Slingshot made of maple branches  
