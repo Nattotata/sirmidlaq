@@ -38,9 +38,10 @@
 	.image-container {
 		display: flex;
 		justify-content: center;
-		max-height: 80vh;
+		height: 80vh;
 	}
 	img {
+		height: 80%;
 		cursor: grab;
 	}
 </style>
