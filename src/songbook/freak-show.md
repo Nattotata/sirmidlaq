@@ -45,11 +45,11 @@ Is ::C::inconspicuous way to raise a ::E::white shark
 
 ::A::Can you see the beauty of having a ::F::fun park
 
-Can you ::C::be the animal I can't stay a::E::round?
+Can you ::C::be the animal I can't stand a::E::round?
 
 ## Verse
 
-::Am::Lights took the ::Em::shortcut to shadow
+::Am::Lights took out ::Em::shortcut to shadow
 
 ::C::Coal tastes better than ::D::crunchy make-up
 
@@ -65,15 +65,15 @@ Is ::C::inconspicuous way to raise a ::E::white shark
 
 ::A::Can you see the beauty of having a ::F::fun park
 
-Can you ::C::be the animal I can't stay ::E::around?
+Can you ::C::be the animal I can't stand ::E::around?
 
 ## Interlude
 
 ::A::Persuade the jury inside
 
-To ::C::take the case lightly
+To ::C::take your case lightly
 
-::Fmaj7::While our tongue is falling apart
+::Fmaj7::While your tongue is falling apart
 
 ::G#maj7::I'm gonna have some ::Gmaj7::white ::F#maj7::tea
 
@@ -85,4 +85,4 @@ Is ::C::inconspicuous way to raise a ::E::white shark
 
 ::A::Can you see the beauty of ::F::having a fun park
 
-Can you ::C::be the animal I can't stay ::E::around?
+Can you ::C::be the animal I can't stand ::E::around?
