@@ -24,7 +24,7 @@ C: x 10 10 9 8 x
 
 ::Bm::Damp dark ::A#::tree bark
 
-::Asus2::cold feet ::F::no heat
+::Asus2::cold feet ::F::no heatchc
 
 ::Bm::dead fly ::A#::night sky
 
@@ -65,3 +65,20 @@ Day's are getting short
 Never cared much 'bout cuisine
 
 Why is it so cold
+
+## Bridge
+
+Used to be many but now there are few
+Why do you keep filling
+Traps with berries we had to walk through
+Why do you keep killing
+Brothers and sisters just bodies in queue
+Still we will be drilling
+
+Used to be many but now there are few
+Why do you keep filling
+Traps with berries we had to walk through
+Why do you keep killing
+Brothers and sisters just bodies in queue
+Still we will be drilling
+
