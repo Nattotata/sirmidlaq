@@ -10,6 +10,7 @@ A: x 7 7 5 0 0 (technically A add9)
 E: 0 2 2 1 0 0
 G: x 5 5 4 0 0 (technically G6)
 E5: x x 9 9 x x
+C#m: x x 6 6 5 0
 ```
 
 ## Verse
@@ -20,7 +21,7 @@ E5: x x 9 9 x x
 
 ::B::do you need ::B7sus4::anything from me
 
-::A::all you seek is ::E::nothing you will ever re::B::ceive
+::C#m::all you seek is ::E::nothing you will ever re::B::ceive
 
 ::G::So this is ::A::it angels are ::B::coming to ::A::solve double homicide
 
@@ -42,7 +43,7 @@ In a ::A::garden ::B::maze on a high end ::E::state
 
 ::B::I know you have ::B7sus4::nothing on me
 
-::A::so you speak roughly::E:: a word on a highest ::B::peak
+::C#m::so you speak roughly::E:: a word on a highest ::B::peak
 
 ::G::So this is it ::A::angels are ::B::coming to ::A::solve double homicide
 
