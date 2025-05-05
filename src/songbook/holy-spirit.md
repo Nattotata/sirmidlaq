@@ -35,14 +35,19 @@ Bm, G, D, A
 ::G::the holy spirit has ::Bm::left me
 
 ::G::Tellin the truth is ::F#::my job
+
 lifting me up isnt every::A::thing why I went down here
 
 ## Chorus
 
 ::C#m::Theres ::B::so much to ::A::take::C#m::
+
 ::B::so much to ::A::inhale raw
+
 ::E::rust just took over
+
 ::B::splitting the shiny parts
+
 ::A::with enforced ::F#::order
 
 ## Verse
@@ -59,9 +64,13 @@ dragin me down isnt the only thing why I went up here
 ## Chorus
 
 ::C#m::Theres ::B::so much to ::A::take::C#m::
+
 ::B::so much to ::A::inhale raw
+
 ::E::rust just took over
+
 ::B::splitting the shiny parts
+
 ::A::with enforced ::F#::order
 
 ## Outro
