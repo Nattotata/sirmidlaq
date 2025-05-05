@@ -24,7 +24,7 @@ F#: x 4 4 3 0 0
 
 ---Outro---
 
-Bm, G, D, A
+Bm, G, Bm, G, D, A
 
 ```
 
@@ -48,18 +48,25 @@ lifting me up isnt every::A::thing why I went down here
 
 ::B::splitting the shiny parts
 
-::A::with enforced ::F#::order
+::A::with enforced order::F#::
 
 ## Verse
 
-I'll rather
-Live in the heaven that I kept near
-my heart isnt the one I love
-lifting me up isnt everything why I went down here
-Another
-calling in the night and I cant breathe
-My body shouldnt pay for my job
-dragin me down isnt the only thing why I went up here
+::Bm::I'll rather
+
+::G::Live in the heaven that I ::Bm::kept near
+
+::G::my heart isnt the one ::F#::I love
+
+lifting me up isnt every::A::thing why I went down here
+
+::Bm::Another
+
+::G::calling in the night and I ::Bm::cant breathe
+
+::G::My body shouldnt pay for ::F#::my job
+
+dragin me down isnt the only ::A::thing why I went up here
 
 ## Chorus
 
@@ -75,7 +82,10 @@ dragin me down isnt the only thing why I went up here
 
 ## Outro
 
-link your lungs to mine before
-you realize you should have never done that
-wear the helmet for the safety reasons
-poor mans skull is better utacked
+::Bm::link your lungs to ::G::mine before
+
+::Bm::you realize you should have ::G::never done that::D:: ::A::
+
+::Bm::wear the helmet for ::G::the safety reasons
+
+::Bm::poor mans skull is ::G::better utacked::D:: ::A::
