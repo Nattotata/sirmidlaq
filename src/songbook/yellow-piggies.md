@@ -1,6 +1,6 @@
 ---
 type: 'song'
-title: 'Yellow piggies (lyrics)'
+title: 'Yellow piggies'
 ---
 
 ```chords
