@@ -21,6 +21,7 @@
 <svelte:head>
 	<title>{config.title}</title>
 </svelte:head>
+<h2>Sir Midlaq songbook</h2>
 
 <section>
 	<div class="image-container">
@@ -29,6 +30,7 @@
 			on:click={() => currentImage.set(getRandomImage())}
 			on:keypress={() => currentImage.set(getRandomImage())}
 			src={$currentImage}
+      style="object-fit: contain;"
 			alt="song illustration"
 		/>
 	</div>
