@@ -1,9 +1,10 @@
 ---
-title: "All the spare time"
-type: "song"
+title: 'All the spare time'
+type: 'song'
 ---
 
 ```chords
+BPM: 169 normal, 133 interlude
 Verse
 C#m7: x 4 6 6 0 0
 Asus2: x 0 2 2 0 0
@@ -45,7 +46,7 @@ E - open E na 4 - open E na 7
 
 ::A5::All the ::B5::spare time ::C#5::having tears in jars ::B5::
 
-::A5::Baking ::B5::bread from the ::C#5::flour of many lies ::B5::
+::A5::Baking ::B5::bread from the ::E::flour
 
 ### Verse
 
@@ -58,6 +59,16 @@ E - open E na 4 - open E na 7
 ::C#m7::Choking is the ::Asus2::only way out::E::
 
 ::C#m7::Choking is the ::Asus2::only way out::E::
+
+### Chorus
+
+::A5::All the ::B5::spare time ::C#5::having tears in jars ::B5::
+
+::A5::Baking ::B5::bread from the ::C#5::flour of many lies ::B5::
+
+::A5::All the ::B5::spare time ::C#5::having tears in jars ::B5::
+
+::A5::Baking ::B5::bread from the ::E::flour
 
 ### Interlude
 
@@ -74,3 +85,7 @@ E - open E na 4 - open E na 7
 ::A5::All the ::B5::spare time ::C#5::having tears in jars ::B5::
 
 ::A5::Baking ::B5::bread from the ::C#5::flour of many lies ::B5::
+
+::A5::All the ::B5::spare time ::C#5::having tears in jars ::B5::
+
+::A5::Baking ::B5::bread from the ::E::flour
