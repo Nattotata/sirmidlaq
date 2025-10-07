@@ -3,6 +3,8 @@ title: "Private Jet Parade (lyrics)"
 type: song
 ---
 
+## Private jet parade
+
 Aiming high  
 stare at us even if you didn't notice  
 Omen sign  
@@ -35,3 +37,4 @@ fasten your seatbelts
 jet is crushing for sure
 
 and it's gonna be beautiful
+
