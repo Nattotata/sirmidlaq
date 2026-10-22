@@ -1,23 +1,22 @@
 import { error } from '@sveltejs/kit';
 
+const modules = import.meta.glob('/src/songbook/**/*.md', { eager: true });
+
 export async function load({ params }) {
-	try {
-		const song = await import(`../../../songbook/${params.slug}.md`);
-		// to solve later
-		// currently, i use URL parameter to toggle all songs / published songs
-		// should do it in svelte store and localstorage
-		//		if (song.metadata.published !== true) {
-		//			throw new Error('unpublished');
-		//		}
-		return {
-			content: song.default,
-			meta: song.metadata
-		};
-	} catch (e) {
-		console.info(e);
-		//		if (e.message === 'unpublished') {
-		//			throw error(401, 'Sorry, this content is not published yet.');
-		//		}
+	const matchEntry = Object.entries(modules).find(([path]) => {
+		const fileSlug = path.split('/').at(-1)?.replace('.md', '');
+		return fileSlug === params.slug;
+	});
+
+	if (!matchEntry) {
 		throw error(404, `Could not find ${params.slug}`);
 	}
+
+	const [, file] = matchEntry;
+	const song = file as any;
+
+	return {
+		content: song.default,
+		meta: song.metadata
+	};
 }

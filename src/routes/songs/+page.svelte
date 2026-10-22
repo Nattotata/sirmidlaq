@@ -1,13 +1,11 @@
 <script lang="ts">
 	import * as config from '$lib/config';
 	export let data;
-	import { page } from '$app/stores';
-	const allSongs = $page.url.searchParams.get('allSongs') !== null 
 
-	const filterSongs = (songs: any, allSongs: boolean) => {
-		return allSongs ? songs : songs.filter((song: any) => song.published);
+	const filterSongs = (songs: any) => {
+		return songs.filter((song: any) => song.published);
 	};
-	const songs = filterSongs(data.songs, Boolean(allSongs));
+	const songs = filterSongs(data.songs);
 </script>
 
 <svelte:head>
