@@ -43,5 +43,11 @@
     "@vercel/analytics": "^1.1.1",
     "lucide-svelte": "^0.279.0",
     "open-props": "^1.5.16"
+  },
+  "allowScripts": {
+    "@sveltejs/kit@1.25.2": true,
+    "esbuild@0.18.20": true,
+    "sharp@0.33.5": true,
+    "svelte-preprocess@5.0.4": true
   }
 }
