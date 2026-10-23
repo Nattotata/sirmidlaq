@@ -5,7 +5,7 @@ title: Plíhal - Prší
 
 ## Chords
 
-```
+```chords
 C:    x 3 2 0 1 0
 C/B:  x 2 x 0 1 0 ??
 Dm:   x x 0 3 2 1
